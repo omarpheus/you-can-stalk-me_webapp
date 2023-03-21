@@ -1,7 +1,11 @@
-# Vue 3 + Vite
+# 😎 You Can Stalk Me 
+## 🔴 Share with your community what you are watching live 🔴
+You Can Stalk Me is a series of tools that helps you strengthen your community while you are not streaming.  
+#### ✨ Chat with your community while you are not streaming  
+#### ✨ Show your support to a streamer by getting your friends on board  
+#### ✨ Discover new content creators by knowing what your community is watching
+#### 👊 https://github.com/omarpheus/you-can-stalk-me 
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## 👀 Feature 2 : Know what streaming is watching your favourite streamer
+#### Status: 🏗️ Under construction  
+Frontend ==> Webpage made with VueJS
